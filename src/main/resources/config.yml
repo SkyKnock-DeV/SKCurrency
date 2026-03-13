@@ -1,0 +1,9 @@
+prefix: "&8[&bSK&8] &r"
+messages:
+  reload: "&aКонфигурация перезагружена!"
+  balance-look: "&eБаланс &f{player}&e: &a{amount} реалов"
+  balance-gave: "&aвы выдали {amount} реалов игроку {player}"
+  balance-taken: "&6вы сняли суму {amount} у игрока {player}"
+  balance-reset: "&cвы обнулили баланс игроку {player}"
+  reset-all: "&4вы очистили сумы всем игрокам"
+  only-numbers: "&cВведите число!"

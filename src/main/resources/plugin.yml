@@ -1,0 +1,8 @@
+name: SKCurrency
+version: 1.0
+main: saki4.skcurrency.SKCurrency
+api-version: 1.16
+softdepend: [PlaceholderAPI]
+commands:
+  skd:
+    description: Основная команда системы реалов
